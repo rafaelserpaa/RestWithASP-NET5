@@ -1,9 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using RestWithASPNETUdemy.Model;
-using RestWithASPNETUdemy.Services;
+using RestWithASPNETErudio.Model;
+using RestWithASPNETErudio.Services;
 
-namespace RestWithASPNETUdemy.Controllers
+namespace RestWithASPNETErudio.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
